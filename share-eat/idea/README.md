@@ -8,6 +8,17 @@ In terms of social impact, ShareEat aims to contribute to Sustainable Developmen
 
 ===
 
-Working Prototype can be accessed here: https://share-eat.flutterflow.app
+* Presentation:
+https://drive.google.com/file/d/1b_URAHc3yJLV7VTEeMeu1qX_VqBAkKLP/view?usp=sharing
+
+* App and Data Architecture Diagrams:
+https://drive.google.com/file/d/1HH6ZTWStKpGdmrMDHCiHw6qME2xYXZQP/view?usp=sharing
+https://whimsical.com/shareeat-app-and-data-architecture-diagrams-16-04-2023-crGHtxEk12xPwu6ucB3Gv
+
+* Demo Video:
+https://drive.google.com/file/d/1XQCgbafyhCTJcBXJ9_z0fBJxho3C-XOw/view?usp=sharing
+
+* Working Prototype:
+https://share-eat.flutterflow.app
 
 ===
