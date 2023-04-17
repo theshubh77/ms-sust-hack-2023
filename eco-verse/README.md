@@ -1,1 +1,1 @@
-This directory contains idea and source for EcoVerse platform.
+This directory contains the idea and source for EcoVerse platform.
