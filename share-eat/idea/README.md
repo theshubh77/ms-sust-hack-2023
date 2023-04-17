@@ -5,3 +5,7 @@ The app will utilize several AI features, such as machine learning algorithms to
 ShareEat's target customers are both local food businesses and community members looking to save money on meals and reduce food waste. The app has the potential to generate revenue through a commission-based model for businesses, as well as advertising and premium features for users.
 
 In terms of social impact, ShareEat aims to contribute to Sustainable Development Goals (SDGs) such as reducing food waste, promoting sustainable consumption and production, and eradicating poverty. As a prototype, the app is still in its early stages, but has the potential to make a significant impact on the food industry and contribute to a more sustainable future.
+
+===
+
+Working Prototype can be accessed here: https://share-eat.flutterflow.app
